@@ -14,8 +14,11 @@ Classes in week:
 |-----| Fís | 4xEng |-----|-----|
 
 EdF = Educação Física
+
 Lin = Linguagem
+
 Red = Redação
+
 InE = Inteligência Emocional
 
 4x = 4 aulas
