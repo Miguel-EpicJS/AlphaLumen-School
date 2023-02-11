@@ -8,10 +8,16 @@ Classes in week:
 | Mat | Mat | His | Art | Bio | 
 | Mat | Mat | His | His | Bio | 
 | Fís | Bio | Lit | Quí | Red | 
+||
+||
 | Fís | Lin | Lit | Quí | Red | 
 | Geo | Lin | EdF | Geo | Fil | 
+||
+||
 | Geo | Quí | EdF | Fís | InE | 
-|-----| Fís | 4xEng |-----|-----|
+||
+||
+|| Fís | 4xEng |||
 
 EdF = Educação Física
 
